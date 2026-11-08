@@ -1,0 +1,11 @@
+*.iso
+*.vdi
+*.vmdk
+*.ova
+*.ovpn
+*.pcap
+*.pcapng
+*.key
+*.pem
+.env
+secrets*
