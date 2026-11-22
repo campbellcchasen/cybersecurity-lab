@@ -9,3 +9,5 @@
 *.pem
 .env
 secrets*
+# Raw screenshots (redact first, then save the clean copy in /screenshots)
+screenshots/raw/
