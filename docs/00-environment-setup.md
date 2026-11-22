@@ -1,7 +1,7 @@
 # Lab 00: Environment Setup
 
 ## Objective
-Build a small, isolated-by-intent practice network with an attacker VM and a target VM, so later labs can be run safely against my own machines.
+Build a small practice network with an attacker VM and a target VM, so later labs can be run safely against my own machines.
 
 ## Environment
 - Host: Windows 10 with VirtualBox
